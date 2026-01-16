@@ -63,3 +63,68 @@ npm or yarn
 A Web3 wallet (e.g., MetaMask)
 
 Base network added to your wallet
+
+Installation
+git clone https://github.com/your-username/chaintask.git
+cd chaintask
+npm install
+
+Run Locally
+npm run dev
+
+
+The application will be available at http://localhost:5173.
+
+Smart Contracts
+
+Contracts are responsible for:
+
+Task creation and assignment
+
+Status updates and completion
+
+Reward escrow and distribution
+
+Contract source code can be found in the contracts/ directory.
+
+Roadmap
+
+ Task creation and assignment
+
+ Role-based access control
+
+ On-chain rewards and escrow
+
+ DAO governance integration
+
+ Analytics and contributor reputation
+
+ Mobile-responsive UI
+
+Contributing
+
+Contributions are welcome.
+
+Fork the repository
+
+Create a new branch (feature/your-feature)
+
+Commit your changes
+
+Open a pull request with a clear description
+
+Please ensure code is well-documented and tested.
+
+License
+
+This project is licensed under the MIT License.
+
+Contact
+
+For questions, ideas, or collaboration:
+
+GitHub Issues
+
+Maintainer: Oluwatomilola
+
+
